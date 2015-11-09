@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Info</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_settings_activity">Settings</string>
+    <string name="sortBy_key">sortBy</string>
+    <string name="sortBy_default_value">popularity.desc</string>
+</resources>
